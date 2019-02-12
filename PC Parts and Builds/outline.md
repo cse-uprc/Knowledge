@@ -9,6 +9,7 @@ RAM:
 GPU:  
 Power Supply:  
 Case:  
+Drives:  
 Why these parts:  
 
 ## Peripherals
