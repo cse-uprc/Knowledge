@@ -7,7 +7,10 @@ The formatting of the file doesn't really matter the content is what is importan
 This is a compilation of reviews for various books.  
 
 ## Co-op Experiences  
-This is where people can post about various companies, so people can know what it really is like.
+This is where people can post about various companies, so people can know what it really is like.  
+
+## Meeting Notes  
+Each meeting anyone useful notes/links are compiled and put here.
 
 ## PC Parts and Builds  
 This is where people can post their setup/builds, or just give helpful advice to people who are looking into building/buying a computer.
