@@ -10,3 +10,6 @@ Machine learning, AI, Backpropagation
 
 4-2-2019  
 Interview skills, Resume building, Professional advice
+
+6-26-2019
+Source Control and Code Review
