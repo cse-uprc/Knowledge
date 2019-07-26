@@ -44,5 +44,7 @@
 ## Appendix/Links
 ### Links related to presentation
 [Matt's Linux Presentation](https://docs.google.com/presentation/d/19duJLmV9Voo0YQ3xR_v3QB_JWB2Q7l0Ff8Qzw7bvsWU/edit?usp=sharing)		
+
 [A timeline of Linux distributions and their forks](https://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg)	
+
 [A TED Talk featuring Linus Torvalds, Creator of Linux](https://www.youtube.com/watch?v=o8NPllzkFhE)	
