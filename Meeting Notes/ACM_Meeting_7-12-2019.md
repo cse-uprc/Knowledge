@@ -1,8 +1,8 @@
 # Meeting Notes for 7/12/2019	
-**Meeting Time:** Friday 7/12/2019 at 5:30pm
-**Meeting Location:** UPRC Room 201	
-**Presentation:** Linux		
-**Presenter:** Matt Kilgore	
+**Meeting Time:** Friday 7/12/2019 at 5:30pm		
+**Meeting Location:** UPRC Room 201		
+**Presentation:** Linux				
+**Presenter:** Matt Kilgore			
 ## Meeting Transcript
 * Tech News		
 * Hackathon Projects	
