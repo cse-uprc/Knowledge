@@ -13,3 +13,6 @@ Interview skills, Resume building, Professional advice
 
 6-26-2019  
 Source Control and Code Review
+
+7-12-2019
+Linux
