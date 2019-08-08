@@ -16,3 +16,6 @@ Source Control and Code Review
 
 7-12-2019   
 Linux
+
+7-26-2019
+GitHub Tips and Tricks
