@@ -8,8 +8,6 @@
 	* Drones Herding Rhinos
 	* Researchers build transistor-like gate for quantum information processing - with quidits
 	* Machine Learning to Recognize Depression from Voice	
-	* Switch to Rust
-	* 
 	* Robots that are the size of an ant
 	* Facebook Fined
 	* Microsoft Investing in Open AI
@@ -47,5 +45,13 @@
 	* Our Projects are open for users to contribute!
 	* New Octave
 		* Open-Source Matlab clone
-* Meeting Adjourned at 7:00pm
+* Meeting Adjourned at 7:00pm	
+## Appendix/Links		
+### Links Related to Presentation		
+[Our Git Playground repo created during the meeting](https://github.com/cse-uprc/Playground)			
+
+[15 tips to enhance your GitHub flow](https://hackernoon.com/15-tips-to-enhance-your-github-flow-6af7ceb0d8a3)	
+
+
+
 
