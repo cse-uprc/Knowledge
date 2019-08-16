@@ -17,5 +17,8 @@ Source Control and Code Review
 7-12-2019   
 Linux  
 
+7-26-2019                
+GitHub Tips and Tricks
+
 8-9-2019  
 Planning for BashBot and Freshman Meet and Greet
