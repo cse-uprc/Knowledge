@@ -17,5 +17,5 @@ Source Control and Code Review
 7-12-2019   
 Linux  
 
-8-9-2019
+8-9-2019  
 Planning for BashBot and Freshman Meet and Greet
