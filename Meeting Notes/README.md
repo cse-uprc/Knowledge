@@ -15,4 +15,7 @@ Interview skills, Resume building, Professional advice
 Source Control and Code Review
 
 7-12-2019   
-Linux
+Linux  
+
+8-9-2019
+Planning for BashBot and Freshman Meet and Greet
