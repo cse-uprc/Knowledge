@@ -1,7 +1,8 @@
-# Meeting Notes for 8/9/2019
-**Meeting Time:** Friday 8/9/2019 at 5:30pm
-**Meeting Location:** UPRC Sun Lab
-**Meeting Topic:** Preparations for the Freshman Meet and Greet
+# Meeting Notes for 8/9/2019  
+
+**Meeting Time:** Friday 8/9/2019 at 5:30pm  
+**Meeting Location:** UPRC Sun Lab  
+**Meeting Topic:** Preparations for the Freshman Meet and Greet	  	
 
 ## Meeting Transcript 
 * Election Results
