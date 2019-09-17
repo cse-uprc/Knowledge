@@ -22,3 +22,6 @@ GitHub Tips and Tricks
 
 8-9-2019  
 Planning for BashBot and Freshman Meet and Greet
+
+9-3-2019
+Building a Computer
